@@ -1,1 +1,1 @@
-# parcial2
+# Sistema de gestion universitaria - Trabajo final del semestre
