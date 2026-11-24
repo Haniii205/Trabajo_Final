@@ -419,7 +419,7 @@ public class Main {
             return;
         }
 
-        int dia = leerEntero("Dias a elegir: domingo = 0, 1 = lunes, 2 = martes, 3 = miércoles, 4 = jueves, 5 = viernes, 6 = sábado");
+        int dia = leerEntero("Dias a elegir: domingo = 0, 1 = lunes, 2 = martes, 3 = miércoles, 4 = jueves, 5 = viernes, 6 = sábado: ");
         int hora = leerEntero("Hora (0-23): ");
 
         try {
