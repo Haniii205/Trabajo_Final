@@ -371,7 +371,7 @@ public class Main {
             return;
         }
 
-        int dia = leerEntero("Dias a elegir: domingo = 0, 1 = lunes, 2 = martes, 3 = miércoles, 4 = jueves, 5 = viernes, 6 = sábado");
+        int dia = leerEntero("Dias a elegir: (domingo = 0, 1 = lunes, 2 = martes, 3 = miércoles, 4 = jueves, 5 = viernes, 6 = sábado): ");
         int hora = leerEntero("Hora de inicio (0-23): ");
         int duracion = leerEntero("Duracion (horas): ");
 
